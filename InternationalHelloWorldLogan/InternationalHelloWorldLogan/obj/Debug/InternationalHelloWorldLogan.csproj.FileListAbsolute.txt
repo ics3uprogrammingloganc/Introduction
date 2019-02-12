@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Cantin, Logan (s299128)\Introduction\InternationalHelloWorldLogan\InternationalHelloWorldLogan\bin\Debug\InternationalHelloWorldLogan.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Cantin, Logan (s299128)\Introduction\InternationalHelloWorldLogan\InternationalHelloWorldLogan\bin\Debug\InternationalHelloWorldLogan.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Cantin, Logan (s299128)\Introduction\InternationalHelloWorldLogan\InternationalHelloWorldLogan\bin\Debug\InternationalHelloWorldLogan.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Cantin, Logan (s299128)\Introduction\InternationalHelloWorldLogan\InternationalHelloWorldLogan\obj\Debug\InternationalHelloWorldLogan.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Cantin, Logan (s299128)\Introduction\InternationalHelloWorldLogan\InternationalHelloWorldLogan\obj\Debug\InternationalHelloWorldLogan.FrmHelloWorldInternational.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Cantin, Logan (s299128)\Introduction\InternationalHelloWorldLogan\InternationalHelloWorldLogan\obj\Debug\InternationalHelloWorldLogan.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Cantin, Logan (s299128)\Introduction\InternationalHelloWorldLogan\InternationalHelloWorldLogan\obj\Debug\InternationalHelloWorldLogan.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Cantin, Logan (s299128)\Introduction\InternationalHelloWorldLogan\InternationalHelloWorldLogan\obj\Debug\InternationalHelloWorldLogan.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Cantin, Logan (s299128)\Introduction\InternationalHelloWorldLogan\InternationalHelloWorldLogan\obj\Debug\InternationalHelloWorldLogan.pdb
