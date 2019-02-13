@@ -44,7 +44,7 @@
             this.lblHelloWorld.Size = new System.Drawing.Size(691, 91);
             this.lblHelloWorld.TabIndex = 0;
             this.lblHelloWorld.Text = "Immaculata Saints";
-            this.lblHelloWorld.Click += new System.EventHandler(this.label1_Click);
+            this.lblHelloWorld.Click += new System.EventHandler(this.lblHelloWorld_Click);
             // 
             // menuStrip1
             // 
@@ -69,7 +69,7 @@
             this.nmiExit.Name = "nmiExit";
             this.nmiExit.Size = new System.Drawing.Size(92, 22);
             this.nmiExit.Text = "Exit";
-            this.nmiExit.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
+            this.nmiExit.Click += new System.EventHandler(this.mniExit_Click);
             // 
             // frmHelloWorldwMenu
             // 

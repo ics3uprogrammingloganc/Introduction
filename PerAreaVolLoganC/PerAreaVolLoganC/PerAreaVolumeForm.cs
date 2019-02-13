@@ -44,18 +44,21 @@ namespace PerAreaVolLoganC
 
         private void btnPerimeter_Click(object sender, EventArgs e)
         {
+            //Calculating perimeter of a 5cm by 8cm rectangle, and updating the label with the answer
             lblPerimeter.Text = "Perimeter = " + Convert.ToString(2 * (5 + 8)) + "cm";
         }
 
         private void btnArea_Click(object sender, EventArgs e)
         {
+            //Calculating the area of a circle with radius 7, and updating the label with the rounded answer
             double area = Math.PI * Math.Pow(7, 2);
             lblArea.Text = "Area = " + round(area, 2).ToString() + "cm²";
         }
 
         private void btnVolume_Click(object sender, EventArgs e)
         {
-            double volume = (4 / 3) * Math.PI * Math.Pow(4, 3);
+            // Calculating the volume of a sphere with radius 4cm, rounding the answer and updating the label
+            double volume = (4.0 / 3.0) * Math.PI * Math.Pow(4, 3);
             lblVolume.Text = "Volume = " + round(volume, 3).ToString() + "cm³";
         }
     }
